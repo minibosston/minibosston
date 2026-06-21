@@ -30,18 +30,18 @@
 ## Основной стек
 
 <p align="center">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript--064e3b?style=for-the-badge&labelColor=064e3b&color=064e3b">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript--065f46?style=for-the-badge&labelColor=065f46&color=065f46">
-  <img alt="React" src="https://img.shields.io/badge/React--047857?style=for-the-badge&labelColor=047857&color=047857">
-  <img alt="Vue" src="https://img.shields.io/badge/Vue--059669?style=for-the-badge&labelColor=059669&color=059669">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js--10b981?style=for-the-badge&labelColor=10b981&color=10b981">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js--34d399?style=for-the-badge&labelColor=34d399&color=34d399&logoColor=022c22">
-  <img alt="Express" src="https://img.shields.io/badge/Express--064e3b?style=for-the-badge&labelColor=064e3b&color=064e3b">
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS--065f46?style=for-the-badge&labelColor=065f46&color=065f46">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL--047857?style=for-the-badge&labelColor=047857&color=047857">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB--059669?style=for-the-badge&labelColor=059669&color=059669">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker--10b981?style=for-the-badge&labelColor=10b981&color=10b981">
-  <img alt="Git" src="https://img.shields.io/badge/Git--34d399?style=for-the-badge&labelColor=34d399&color=34d399">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Vue" src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img alt="Express" src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white">
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
 ## Что я делаю
@@ -50,23 +50,17 @@
   <tr>
     <td width="33%" valign="top">
       <h3 align="center">Frontend</h3>
-      <p align="center">
-        <img alt="Frontend Stack" src="https://img.shields.io/badge/React%20%E2%80%A2%20Vue%20%E2%80%A2%20Next.js--065f46?style=for-the-badge&labelColor=022c22&color=065f46">
-      </p>
+      <p align="center"><b>React, Vue, Next.js</b></p>
       <p align="center">Интерфейсы, которые выглядят аккуратно, работают быстро и не ломаются от роста проекта.</p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Backend</h3>
-      <p align="center">
-        <img alt="Backend Stack" src="https://img.shields.io/badge/Node.js%20%E2%80%A2%20Express%20%E2%80%A2%20NestJS--047857?style=for-the-badge&labelColor=022c22&color=047857">
-      </p>
+      <p align="center"><b>Node.js, Express, NestJS</b></p>
       <p align="center">API, бизнес-логика и структура приложения без хаоса, лишней магии и случайных решений.</p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Architecture</h3>
-      <p align="center">
-        <img alt="Architecture Stack" src="https://img.shields.io/badge/PostgreSQL%20%E2%80%A2%20MongoDB%20%E2%80%A2%20Docker--059669?style=for-the-badge&labelColor=022c22&color=059669">
-      </p>
+      <p align="center"><b>PostgreSQL, MongoDB, Docker</b></p>
       <p align="center">Собираю проекты так, чтобы их было удобно поддерживать, масштабировать и развивать.</p>
     </td>
   </tr>
