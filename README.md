@@ -1,68 +1,127 @@
-<h1 align="center"> 4:00 am </h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:2563eb&text=Full-Stack%20Developer&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Modern%20web%20products%20with%20clean%20architecture&descAlignY=58" alt="Header" />
+
+</div>
+
+<div align="center">
+
+<h3>JavaScript / TypeScript • React • Vue • Next.js • Node.js</h3>
+
+<img src="https://img.shields.io/badge/Full--Stack-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Full-Stack" />
+<img src="https://img.shields.io/badge/Clean%20Architecture-1d4ed8?style=for-the-badge&logo=files&logoColor=white" alt="Clean Architecture" />
+<img src="https://img.shields.io/badge/Type--Safe-0ea5e9?style=for-the-badge&logo=typescript&logoColor=white" alt="Type-Safe" />
+<img src="https://img.shields.io/badge/Performance-111827?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Performance" />
+
+</div>
+
+---
+
+## Обо мне
+
+Я full-stack разработчик, которому нравится собирать продукт целиком: от визуально аккуратного интерфейса до API, базы данных и предсказуемого продакшн-поведения.
+
+Основной стек строю вокруг JavaScript и TypeScript. Мне ближе современная web-разработка без лишнего шума: понятная архитектура, хороший DX, нормальная читаемость кода и решения, которые не нужно переписывать после первой крупной фичи.
+
+Люблю, когда проект выглядит собранно на всех уровнях: быстрый frontend, внятный backend, логичная структура приложения и кодовая база, которую можно спокойно поддерживать и масштабировать.
+
+> Делаю не просто "чтобы работало", а так, чтобы проект было удобно развивать дальше.
+
+## Основной стек
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,nodejs,express,nestjs,postgres,mongodb,docker,git&theme=dark" alt="Tech Stack" />
+
+</div>
 
 <p align="center">
-  <b>JavaScript / TypeScript</b> • <b>React</b> • <b>Vue</b> • <b>Next.js</b> • <b>Node.js</b>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="Vue" src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img alt="Express" src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white">
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full--Stack-111827?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vue%20%7C%20Next.js-0f172a?style=flat-square&logo=react" alt="Frontend" />
-  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20NestJS-0f172a?style=flat-square&logo=node.js" alt="Backend" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL%20%7C%20MongoDB-0f172a?style=flat-square&logo=postgresql" alt="Database" />
-</p>
+## Что я делаю
 
-## Tech Stack
+<table align="center">
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">Frontend</h3>
+      <p align="center">React, Vue, Next.js</p>
+      <p align="center">Интерфейсы, которые выглядят аккуратно, работают быстро и не ломаются от роста проекта.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Backend</h3>
+      <p align="center">Node.js, Express, NestJS</p>
+      <p align="center">API, бизнес-логика и структура приложения без хаоса, лишней магии и случайных решений.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Architecture</h3>
+      <p align="center">PostgreSQL, MongoDB, Docker</p>
+      <p align="center">Собираю проекты так, чтобы их было удобно поддерживать, масштабировать и развивать.</p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,nodejs,express,nestjs,postgres,mongodb,docker,git" />
-  </a>
-</p>
+## Что важно
 
-<p align="center">
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="React" src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img alt="Vue" src="https://img.shields.io/badge/vue-35495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-  <img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-</p>
+<div align="center">
 
+<img src="https://img.shields.io/badge/Readable%20Code-0f172a?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Readable Code" />
+<img src="https://img.shields.io/badge/Clear%20Structure-1e293b?style=for-the-badge&logo=stackshare&logoColor=white" alt="Clear Structure" />
+<img src="https://img.shields.io/badge/Fast%20UI-2563eb?style=for-the-badge&logo=react&logoColor=white" alt="Fast UI" />
+<img src="https://img.shields.io/badge/Stable%20Backend-0ea5e9?style=for-the-badge&logo=serverless&logoColor=white" alt="Stable Backend" />
+<img src="https://img.shields.io/badge/Scalable%20Growth-111827?style=for-the-badge&logo=target&logoColor=white" alt="Scalable Growth" />
 
-## GitHub Stats
+</div>
 
-<p align="center">
+## Фокус сейчас
+
+```ts
+const currentFocus = {
+  building: ["full-stack web products", "maintainable systems"],
+  frontend: ["React", "Vue", "Next.js"],
+  backend: ["Node.js", "Express", "NestJS"],
+  database: ["PostgreSQL", "MongoDB"],
+  priorities: ["clean code", "performance", "predictable architecture"]
+};
+```
+
+## GitHub статистика
+
+<div align="center">
   <a href="https://github.com/minibosston">
-    <img src="https://github-readme-stats.vercel.app/api?username=minibosston&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=minibosston&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/minibosston">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minibosston&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minibosston&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
-</p>
+</div>
 
-## Contact
+## Контакты
 
-<p align="center">
-  <a href="https://t.me/minibosston">
-    <img src="https://skillicons.dev/icons?i=telegram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/minibosston">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://t.me/minibosston">
-    <img alt="Telegram" src="https://img.shields.io/badge/@minibosston-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
-  <a href="https://github.com/minibosston">
-    <img alt="GitHub" src="https://img.shields.io/badge/minibosston-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+<a href="https://t.me/minibosston">
+  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@minibosston-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://github.com/minibosston">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-minibosston-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+
+<sub>Open for interesting full-stack projects, product development and clean architecture work.</sub>
+
+</div>
