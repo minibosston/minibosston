@@ -64,10 +64,10 @@ const focus = {
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/minibosston">
     <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/minibosston">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </p>
