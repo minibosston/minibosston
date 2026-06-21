@@ -1,15 +1,30 @@
 <h1 align="center">Full-Stack Developer</h1>
 
-<p align="center">JavaScript / TypeScript • React • Vue • Next.js • Node.js</p>
-
 <p align="center">
-  Python ненавижу всем сердцем и душой
+  Создаю современные веб-приложения с упором на чистую архитектуру,
+  удобный интерфейс и предсказуемый backend.
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nuxt,nodejs,nestjs,postgres,mongodb,redis,docker,git&theme=dark" alt="Tech Stack" />
+  </a>
+</p>
+
+<p align="center">
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-Full--Stack-111827?style=for-the-badge">
+  <img alt="Main Stack" src="https://img.shields.io/badge/Stack-JavaScript%20%2F%20TypeScript-2563EB?style=for-the-badge">
+  <img alt="Frontend" src="https://img.shields.io/badge/Frontend-React%20%7C%20Vue-0F766E?style=for-the-badge">
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-Node.js%20%7C%20NestJS-7C3AED?style=for-the-badge">
+</p>
+
+## Обо мне
+
+Разрабатываю full-stack решения на JavaScript и TypeScript: от интерфейсов на React, Next.js, Vue и Nuxt до серверной части на Node.js, Express, NestJS и Fastify. Люблю понятный код, аккуратную структуру проекта и интерфейсы, которыми приятно пользоваться.
 
 ## Стек
 
-**Языки**
+### Языки
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
@@ -21,7 +36,7 @@
   <img alt="Bash" src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white">
 </p>
 
-**Frontend**
+### Frontend
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
@@ -35,7 +50,7 @@
   <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black">
 </p>
 
-**Backend**
+### Backend
 
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white">
@@ -48,7 +63,7 @@
   <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white">
 </p>
 
-**Data & Tools**
+### Data & Tools
 
 <p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
@@ -62,6 +77,12 @@
 </p>
 
 ## Контакты
+
+<p>
+  <a href="https://t.me/minibosston">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@minibosston-26A5E4?logo=telegram&logoColor=white">
+  </a>
+</p>
 
 - Telegram: [@minibosston](https://t.me/minibosston)
 - Портфолио: soon...
