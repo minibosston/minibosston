@@ -75,19 +75,7 @@ const focus = {
 ## Contact
 
 <p>
-  <a href="https://t.me/YOUR_TELEGRAM">
+  <a href="https://t.me/@minibosston">
     <img src="https://img.shields.io/badge/Telegram-@YOUR__TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-YOUR__EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-YOUR__LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </p>
-
-## Before Publish
-
-- Замените `YOUR_USERNAME` на ваш GitHub username
-- Замените `YOUR_TELEGRAM`, `YOUR_EMAIL` и `YOUR_LINKEDIN` на свои данные
-- Этот файл нужно загрузить в репозиторий с именем, совпадающим с вашим логином GitHub
