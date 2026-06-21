@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e293b,100:2563eb&text=Full-Stack%20Developer&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Modern%20web%20products%20with%20clean%20architecture&descAlignY=58" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:022c22,50:065f46,100:10b981&text=Full-Stack%20Developer&fontColor=ecfdf5&fontSize=42&fontAlignY=38&desc=Modern%20web%20products%20in%20emerald%20tones&descAlignY=58" alt="Header" />
 
 </div>
 
@@ -8,10 +8,10 @@
 
 <h3>JavaScript / TypeScript • React • Vue • Next.js • Node.js</h3>
 
-<img src="https://img.shields.io/badge/Full--Stack-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Full-Stack" />
-<img src="https://img.shields.io/badge/Clean%20Architecture-1d4ed8?style=for-the-badge&logo=files&logoColor=white" alt="Clean Architecture" />
-<img src="https://img.shields.io/badge/Type--Safe-0ea5e9?style=for-the-badge&logo=typescript&logoColor=white" alt="Type-Safe" />
-<img src="https://img.shields.io/badge/Performance-111827?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Performance" />
+<img src="https://img.shields.io/badge/Full--Stack--064e3b?style=for-the-badge&labelColor=022c22&color=064e3b" alt="Full-Stack" />
+<img src="https://img.shields.io/badge/Clean%20Architecture--047857?style=for-the-badge&labelColor=022c22&color=047857" alt="Clean Architecture" />
+<img src="https://img.shields.io/badge/Type--Safe--059669?style=for-the-badge&labelColor=022c22&color=059669" alt="Type-Safe" />
+<img src="https://img.shields.io/badge/Performance--10b981?style=for-the-badge&labelColor=022c22&color=10b981" alt="Performance" />
 
 </div>
 
@@ -29,25 +29,19 @@
 
 ## Основной стек
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,nodejs,express,nestjs,postgres,mongodb,docker,git&theme=dark" alt="Tech Stack" />
-
-</div>
-
 <p align="center">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img alt="Vue" src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img alt="Express" src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white">
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript--064e3b?style=for-the-badge&labelColor=064e3b&color=064e3b">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript--065f46?style=for-the-badge&labelColor=065f46&color=065f46">
+  <img alt="React" src="https://img.shields.io/badge/React--047857?style=for-the-badge&labelColor=047857&color=047857">
+  <img alt="Vue" src="https://img.shields.io/badge/Vue--059669?style=for-the-badge&labelColor=059669&color=059669">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js--10b981?style=for-the-badge&labelColor=10b981&color=10b981">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js--34d399?style=for-the-badge&labelColor=34d399&color=34d399&logoColor=022c22">
+  <img alt="Express" src="https://img.shields.io/badge/Express--064e3b?style=for-the-badge&labelColor=064e3b&color=064e3b">
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS--065f46?style=for-the-badge&labelColor=065f46&color=065f46">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL--047857?style=for-the-badge&labelColor=047857&color=047857">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB--059669?style=for-the-badge&labelColor=059669&color=059669">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker--10b981?style=for-the-badge&labelColor=10b981&color=10b981">
+  <img alt="Git" src="https://img.shields.io/badge/Git--34d399?style=for-the-badge&labelColor=34d399&color=34d399">
 </p>
 
 ## Что я делаю
@@ -56,17 +50,23 @@
   <tr>
     <td width="33%" valign="top">
       <h3 align="center">Frontend</h3>
-      <p align="center">React, Vue, Next.js</p>
+      <p align="center">
+        <img alt="Frontend Stack" src="https://img.shields.io/badge/React%20%E2%80%A2%20Vue%20%E2%80%A2%20Next.js--065f46?style=for-the-badge&labelColor=022c22&color=065f46">
+      </p>
       <p align="center">Интерфейсы, которые выглядят аккуратно, работают быстро и не ломаются от роста проекта.</p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Backend</h3>
-      <p align="center">Node.js, Express, NestJS</p>
+      <p align="center">
+        <img alt="Backend Stack" src="https://img.shields.io/badge/Node.js%20%E2%80%A2%20Express%20%E2%80%A2%20NestJS--047857?style=for-the-badge&labelColor=022c22&color=047857">
+      </p>
       <p align="center">API, бизнес-логика и структура приложения без хаоса, лишней магии и случайных решений.</p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Architecture</h3>
-      <p align="center">PostgreSQL, MongoDB, Docker</p>
+      <p align="center">
+        <img alt="Architecture Stack" src="https://img.shields.io/badge/PostgreSQL%20%E2%80%A2%20MongoDB%20%E2%80%A2%20Docker--059669?style=for-the-badge&labelColor=022c22&color=059669">
+      </p>
       <p align="center">Собираю проекты так, чтобы их было удобно поддерживать, масштабировать и развивать.</p>
     </td>
   </tr>
@@ -76,11 +76,11 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Readable%20Code-0f172a?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Readable Code" />
-<img src="https://img.shields.io/badge/Clear%20Structure-1e293b?style=for-the-badge&logo=stackshare&logoColor=white" alt="Clear Structure" />
-<img src="https://img.shields.io/badge/Fast%20UI-2563eb?style=for-the-badge&logo=react&logoColor=white" alt="Fast UI" />
-<img src="https://img.shields.io/badge/Stable%20Backend-0ea5e9?style=for-the-badge&logo=serverless&logoColor=white" alt="Stable Backend" />
-<img src="https://img.shields.io/badge/Scalable%20Growth-111827?style=for-the-badge&logo=target&logoColor=white" alt="Scalable Growth" />
+<img src="https://img.shields.io/badge/Readable%20Code--064e3b?style=for-the-badge&labelColor=022c22&color=064e3b" alt="Readable Code" />
+<img src="https://img.shields.io/badge/Clear%20Structure--065f46?style=for-the-badge&labelColor=022c22&color=065f46" alt="Clear Structure" />
+<img src="https://img.shields.io/badge/Fast%20UI--047857?style=for-the-badge&labelColor=022c22&color=047857" alt="Fast UI" />
+<img src="https://img.shields.io/badge/Stable%20Backend--059669?style=for-the-badge&labelColor=022c22&color=059669" alt="Stable Backend" />
+<img src="https://img.shields.io/badge/Scalable%20Growth--10b981?style=for-the-badge&labelColor=022c22&color=10b981" alt="Scalable Growth" />
 
 </div>
 
@@ -100,10 +100,10 @@ const currentFocus = {
 
 <div align="center">
   <a href="https://github.com/minibosston">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=minibosston&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=minibosston&show_icons=false&hide_border=false&include_all_commits=true&count_private=true&bg_color=00000000&title_color=34d399&text_color=a7f3d0&border_color=065f46&ring_color=10b981" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/minibosston">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minibosston&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minibosston&layout=compact&hide_border=false&bg_color=00000000&title_color=34d399&text_color=a7f3d0&border_color=065f46" alt="Top Languages" />
   </a>
 </div>
 
@@ -112,10 +112,10 @@ const currentFocus = {
 <div align="center">
 
 <a href="https://t.me/minibosston">
-  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@minibosston-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@minibosston-059669?style=for-the-badge&labelColor=022c22&color=059669" />
 </a>
 <a href="https://github.com/minibosston">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-minibosston-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-minibosston-065f46?style=for-the-badge&labelColor=022c22&color=065f46" />
 </a>
 
 </div>
