@@ -15,7 +15,7 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
-  <img alt="CSS3" src="https://img.shieldsЫ.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white">
   <img alt="Bash" src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white">
