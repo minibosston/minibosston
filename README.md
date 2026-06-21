@@ -3,7 +3,7 @@
 <p align="center">JavaScript / TypeScript • React • Vue • Next.js • Node.js</p>
 
 <p align="center">
-  Python ненавижу всем сердцем и душойЫЫ
+  Python ненавижу всем сердцем и душой
 </p>
 
 
