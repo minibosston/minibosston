@@ -18,10 +18,6 @@
   <img alt="Backend" src="https://img.shields.io/badge/Backend-Node.js%20%7C%20NestJS-7C3AED?style=for-the-badge">
 </p>
 
-## Обо мне
-
-Разрабатываю full-stack решения на JavaScript и TypeScript: от интерфейсов на React, Next.js, Vue и Nuxt до серверной части на Node.js, Express, NestJS и Fastify. Люблю понятный код, аккуратную структуру проекта и интерфейсы, которыми приятно пользоваться.
-
 ## Стек
 
 ### Языки
