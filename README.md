@@ -1,9 +1,5 @@
 <h1 align="center">Full-Stack Developer</h1>
 
-<p align="center">
-  Создаю современные веб-приложения с упором на чистую архитектуру,
-  удобный интерфейс и предсказуемый backend.
-</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
